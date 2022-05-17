@@ -1,0 +1,19 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;400&family=Megrim&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:  #0F0F0F;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+}
+a{
+    font-family: 'Megrim', cursive;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover{
+    color: #EFCA11
+}
